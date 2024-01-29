@@ -10,7 +10,7 @@ The phrase “Internet meme” is commonly applied to describe the propagation o
 
 [^wikipedia24meme]: “Meme.” 2024. Wikipedia. Wikimedia Foundation. January 18, 2024. https://en.wikipedia.org/wiki/Meme. 
 
-[^Dawkins76meme]: Dawkins, Richard. 2016. The Selfish Gene. Oxford: Oxford University Press.  
+[^Dawkins76meme]: Dawkins, Richard. 1976. The Selfish Gene. New York, Oxford University Press.
 
 [^Shifman13meme]: Shifman, Limor. 2013. “Memes in a Digital World: Reconciling with a Conceptual Troublemaker.” Journal of Computer-Mediated Communication 18, no. 3: 362–77. https://doi.org/10.1111/jcc4.12013 
 
